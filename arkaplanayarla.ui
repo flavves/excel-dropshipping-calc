@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>962</width>
+    <height>553</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="arkaplan">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>-20</y>
+      <width>960</width>
+      <height>591</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="ulke1">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>220</y>
+      <width>201</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+
+background-color: rgb(0, 104, 132);</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>USA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Canada</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Meksika</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Birleşik Arap emirlikleri</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Singapur</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Avustralya</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Japonya</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Almanya</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Brezilya</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Fransa</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hollanda</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QComboBox" name="ulke2">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>310</y>
+      <width>201</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(0, 104, 132);</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>USA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Canada</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Meksika</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Birleşik Arap emirlikleri</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Singapur</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Avustralya</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Japonya</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Almanya</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Brezilya</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Fransa</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hollanda</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QTextEdit" name="deger">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>410</y>
+      <width>131</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(0, 104, 132);</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="SKU">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>230</y>
+      <width>211</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(0, 104, 132);</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Baslat">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>410</y>
+      <width>131</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(252, 210, 79);
+color: rgb(0, 0, 0);</string>
+    </property>
+    <property name="text">
+     <string>BAŞLAT</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="dosyasec">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>320</y>
+      <width>131</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(0, 104, 132);</string>
+    </property>
+    <property name="text">
+     <string>Dsya seç</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="dosya_adi">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>410</y>
+      <width>371</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

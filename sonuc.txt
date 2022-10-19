@@ -1,0 +1,1384 @@
+       sku       asin price quantity
+   ertan-0 B07F8QFZX6     0        0
+   ertan-1 B09CKQZ4RP     0        0
+   ertan-2 B0144CWU6Q     0        0
+   ertan-3 B09KLRWYB8     0        0
+   ertan-4 B08PPJCB61     0        0
+   ertan-5 B07NXRGCVZ     0        0
+   ertan-6 B09F6S58K8     0        0
+   ertan-7 B089DNP8K3     0        0
+   ertan-8 B07WMMRHKZ     0        0
+   ertan-9 B09FWWLG5D     0        0
+  ertan-10 B08VJ38TRL     0        0
+  ertan-11 B09VT567TP     0        0
+  ertan-12 B07GW5S6LY     0        0
+  ertan-13 B096Q4XK9H     0        0
+  ertan-14 B07XCNBPMQ     0        0
+  ertan-15 B0851BH8JW     0        0
+  ertan-16 B07QMV4VSQ     0        0
+  ertan-17 B088QDMWHR     0        0
+  ertan-18 B08RRTPF9T     0        0
+  ertan-19 B099MYKRVN     0        0
+  ertan-20 B08M3KSJL6     0        0
+  ertan-21 B079M34VWH     0        0
+  ertan-22 B0823VM4CH     0        0
+  ertan-23 B07TFT93TK     0        0
+  ertan-24 B09TR3JQXP     0        0
+  ertan-25 B07PF6ZXWQ     0        0
+  ertan-26 B081V3HTCW     0        0
+  ertan-27 B00H6V4T0I     0        0
+  ertan-28 B01N6DWOY4     0        0
+  ertan-29 B01D4CTRRM     0        0
+  ertan-30 B07T96QJ7N     0        0
+  ertan-31 B006ROKGM0     0        0
+  ertan-32 B07VY4BDQ1     0        0
+  ertan-33 B07V238KGH     0        0
+  ertan-34 B07TSLVQLH     0        0
+  ertan-35 B095Y427DS     0        0
+  ertan-36 B07Y66G68V     0        0
+  ertan-37 B08B111ZKR     0        0
+  ertan-38 B01IVLXVS2     0        0
+  ertan-39 B07WF5G5WK     0        0
+  ertan-40 B07W17J26P     0        0
+  ertan-41 B083YVPB3L     0        0
+  ertan-42 B08LK6MZV8     0        0
+  ertan-43 B09CKHTNNX     0        0
+  ertan-44 B076Q7ZXDM     0        0
+  ertan-45 B08PFY6G19     0        0
+  ertan-46 B00TCM49OK     0        0
+  ertan-47 B072FR6SHB     0        0
+  ertan-48 B0095ZQFC8     0        0
+  ertan-49 B07GBRQYYY     0        0
+  ertan-50 B078V43C9G     0        0
+  ertan-51 B07DMT6CWB     0        0
+  ertan-52 B003GXFJ1S     0        0
+  ertan-53 B095X7CFHL     0        0
+  ertan-54 B08DCYS4YJ     0        0
+  ertan-55 B01N5PRX90     0        0
+  ertan-56 B07TSNFFHH     0        0
+  ertan-57 B086GDJ62T     0        0
+  ertan-58 B08CSR1KK3     0        0
+  ertan-59 B08B7S3HLK     0        0
+  ertan-60 B01F8S1GA6     0        0
+  ertan-61 B08JH71RMM     0        0
+  ertan-62 B06XKX6YNB     0        0
+  ertan-63 B08R8XBG5T     0        0
+  ertan-64 B087N4GND5     0        0
+  ertan-65 B0746BYPK3     0        0
+  ertan-66 B003H8GR04     0        0
+  ertan-67 B07J6BV52K     0        0
+  ertan-68 B07T9HZT47     0        0
+  ertan-69 B08H86B2N4     0        0
+  ertan-70 B09CTLHNSL     0        0
+  ertan-71 B07KG6Y73Y     0        0
+  ertan-72 B089SVV6HN     0        0
+  ertan-73 B07WPV9CBX     0        0
+  ertan-74 B09N3GMMPC     0        0
+  ertan-75 B07BPZ9995     0        0
+  ertan-76 B08SH9TRJT     0        0
+  ertan-77 B07DGZNXLZ     0        0
+  ertan-78 B09P528R7M     0        0
+  ertan-79 B082J8WN8J     0        0
+  ertan-80 B091CRRCBT     0        0
+  ertan-81 B08BZ5YDGP     0        0
+  ertan-82 B07JN16JK1     0        0
+  ertan-83 B08KG7MSN1     0        0
+  ertan-84 B09VYSQ2ZK     0        0
+  ertan-85 B074JZWKT9     0        0
+  ertan-86 B097PQBYYM     0        0
+  ertan-87 B01H0WLQ9E     0        0
+  ertan-88 B0728DPFTS     0        0
+  ertan-89 B078SCYSHK     0        0
+  ertan-90 B07F6VCRRF     0        0
+  ertan-91 B082PHLL65     0        0
+  ertan-92 B07LFJNN8B     0        0
+  ertan-93 B07RNJ4LDJ     0        0
+  ertan-94 B01M6UJFH5     0        0
+  ertan-95 B078Q5D1XS     0        0
+  ertan-96 B003AK1TTI     0        0
+  ertan-97 B07MWS86X2     0        0
+  ertan-98 B07SG16HF4     0        0
+  ertan-99 B000PSFNIQ     0        0
+ ertan-100 B0050E2IZQ     0        0
+ ertan-101 B0763T9PDY     0        0
+ ertan-102 B07W4HKKGX     0        0
+ ertan-103 B06XYGBC9W     0        0
+ ertan-104 B08JS9TXSN     0        0
+ ertan-105 B004QTUN26     0        0
+ ertan-106 B001141CRE     0        0
+ ertan-107 B08LPS8XGD     0        0
+ ertan-108 B08LVQ7NK2     0        0
+ ertan-109 B0838T5LPZ     0        0
+ ertan-110 B09XMYM1V5     0        0
+ ertan-111 B08GPZK3PR     0        0
+ ertan-112 B07QXP1CTV     0        0
+ ertan-113 B001PZ7EEE     0        0
+ ertan-114 B07G8TZDL3     0        0
+ ertan-115 B076TRQNCY     0        0
+ ertan-116 B09CF3WL27     0        0
+ ertan-117 B08RS3W24D     0        0
+ ertan-118 B07SRCWN42     0        0
+ ertan-119 B08M9WR4DM     0        0
+ ertan-120 B0006TU9M4     0        0
+ ertan-121 B074TDR9Q8     0        0
+ ertan-122 B09C1NQY3Z     0        0
+ ertan-123 B08FG4WGGY     0        0
+ ertan-124 B07VG472VC     0        0
+ ertan-125 B078N1Z7CD     0        0
+ ertan-126 B08ZCC1FDW     0        0
+ ertan-127 B088MFZNGY     0        0
+ ertan-128 B07RX6L3DM     0        0
+ ertan-129 B07FKFRLV1     0        0
+ ertan-130 B096LPTNRX     0        0
+ ertan-131 B09F8GLH53     0        0
+ ertan-132 B07K7TQ2GM     0        0
+ ertan-133 B07DGGFNZN     0        0
+ ertan-134 B07XZ41781     0        0
+ ertan-135 B074DQSYYS     0        0
+ ertan-136 B07VXRXPBY     0        0
+ ertan-137 B01GZXHZKI     0        0
+ ertan-138 B000MRYVK6     0        0
+ ertan-139 B079F36VV1     0        0
+ ertan-140 B082YL3MJ2     0        0
+ ertan-141 B08543WT5H     0        0
+ ertan-142 B079DL48WZ     0        0
+ ertan-143 B0029MF9WQ     0        0
+ ertan-144 B07C5XVRSQ     0        0
+ ertan-145 B08VVZZGPD     0        0
+ ertan-146 B07WMRFBCV     0        0
+ ertan-147 B01LWJWL8R     0        0
+ ertan-148 B00WIIN7Z2     0        0
+ ertan-149 B073WT14F3     0        0
+ ertan-150 B07V4X5JNV     0        0
+ ertan-151 B07S9K171T     0        0
+ ertan-152 B09H66W4B7     0        0
+ ertan-153 B08RMH8V2P     0        0
+ ertan-154 B01GOYTAL0     0        0
+ ertan-155 B07V3BS8HY     0        0
+ ertan-156 B082XC6LFC     0        0
+ ertan-157 B07B8YFRHB     0        0
+ ertan-158 B0B7J62MV9     0        0
+ ertan-159 B08DRSN628     0        0
+ ertan-160 B0918Z8LC6     0        0
+ ertan-161 B01KLSTVFU     0        0
+ ertan-162 B09B1MWY8Z     0        0
+ ertan-163 B08G4BFFH3     0        0
+ ertan-164 B07MV53BS3     0        0
+ ertan-165 B0000ULZXG     0        0
+ ertan-166 B01NBY5G8F     0        0
+ ertan-167 B08LMJB4Z1     0        0
+ ertan-168 B07JWJRF1V     0        0
+ ertan-169 B00USBHVRG     0        0
+ ertan-170 B099Z2LR7Q     0        0
+ ertan-171 B09HXY9JJD     0        0
+ ertan-172 B01MRV8H06     0        0
+ ertan-173 B07Z8XCM44     0        0
+ ertan-174 B09WY4WNJG     0        0
+ ertan-175 B07X8MHMD3     0        0
+ ertan-176 B0716RJK6Y     0        0
+ ertan-177 B07WLLCM4H     0        0
+ ertan-178 B07WC7MVC6     0        0
+ ertan-179 B071P8T37Q     0        0
+ ertan-180 B00BPTOK2E     0        0
+ ertan-181 B07NN3CJVP     0        0
+ ertan-182 B08NDDY6ZK     0        0
+ ertan-183 B07429SNT3     0        0
+ ertan-184 B09J8CF6W5     0        0
+ ertan-185 B081R79RNH     0        0
+ ertan-186 B00J33F9RO     0        0
+ ertan-187 B07K9LZY23     0        0
+ ertan-188 B06VXZ2XNV     0        0
+ ertan-189 B08PF48D5W     0        0
+ ertan-190 B0033P960Y     0        0
+ ertan-191 B00FN7WGE8     0        0
+ ertan-192 B07VH73NB5     0        0
+ ertan-193 B087QHSG7G     0        0
+ ertan-194 B08C6RLX5T     0        0
+ ertan-195 B08HCVYN2Z     0        0
+ ertan-196 B09FDTW8D6     0        0
+ ertan-197 B09P7GNLRJ     0        0
+ ertan-198 B08MPK39JL     0        0
+ ertan-199 B08B4FZXN4     0        0
+ ertan-200 B095SDNZWM     0        0
+ ertan-201 B08XC5ZQ3S     0        0
+ ertan-202 B08R1NHBM7     0        0
+ ertan-203 B0823CRYY8     0        0
+ ertan-204 B08CKKSDD8     0        0
+ ertan-205 B003A77GAC     0        0
+ ertan-206 B093DCJ6K5     0        0
+ ertan-207 B0B2DB12RN     0        0
+ ertan-208 B098SG9SYX     0        0
+ ertan-209 B07VLQJL65     0        0
+ ertan-210 B09128VT2D     0        0
+ ertan-211 B09LYV1932     0        0
+ ertan-212 B07CYMYHHB     0        0
+ ertan-213 B08M9C6NP6     0        0
+ ertan-214 B0B76HCCMZ     0        0
+ ertan-215 B08DFZYG6F     0        0
+ ertan-216 B096M4Y141     0        0
+ ertan-217 B092PSDYVK     0        0
+ ertan-218 B0987CD38C     0        0
+ ertan-219 B07GB31S79     0        0
+ ertan-220 B00OZ83ZK0     0        0
+ ertan-221 B07T542VJS     0        0
+ ertan-222 B09MDD9VLT     0        0
+ ertan-223 B07ZBCF45Z     0        0
+ ertan-224 B083SJHLDD     0        0
+ ertan-225 B09B8PMT55     0        0
+ ertan-226 B08MKWBTY6     0        0
+ ertan-227 B004TBI7Z6     0        0
+ ertan-228 B073GF58G5     0        0
+ ertan-229 B08GP6HK9S     0        0
+ ertan-230 B09CPKGTMG     0        0
+ ertan-231 B085FX6SWY     0        0
+ ertan-232 B08CX7CLX4     0        0
+ ertan-233 B08M9PG5LP     0        0
+ ertan-234 B071DVQ2LW     0        0
+ ertan-235 B09MCRVQVG     0        0
+ ertan-236 B08SK3129W     0        0
+ ertan-237 B07KP5W8WJ     0        0
+ ertan-238 B09SHGPYN6     0        0
+ ertan-239 B08JH7LMCT     0        0
+ ertan-240 B07MQ9JYMD     0        0
+ ertan-241 B000QJBNII     0        0
+ ertan-242 B07LC2DK1F     0        0
+ ertan-243 B09FSDG5YH     0        0
+ ertan-244 B01MSJ6FKG     0        0
+ ertan-245 B01GPNHMPG     0        0
+ ertan-246 B0B2P14WMH     0        0
+ ertan-247 B01CE1AM78     0        0
+ ertan-248 B099K3L3G9     0        0
+ ertan-249 B06XT3P1K3     0        0
+ ertan-250 B09PJ7CY3X     0        0
+ ertan-251 B07M6BZ4F2     0        0
+ ertan-252 B08T92GVKY     0        0
+ ertan-253 B0957LDGJ3     0        0
+ ertan-254 B089F6MRBT     0        0
+ ertan-255 B08XD7YSJ6     0        0
+ ertan-256 B09XB55K93     0        0
+ ertan-257 B07D4NT8GM     0        0
+ ertan-258 B07GDQ8RTJ     0        0
+ ertan-259 B00IMGXVL4     0        0
+ ertan-260 B07HRGK252     0        0
+ ertan-261 B0BBCHQ2W7     0        0
+ ertan-262 B07Y9QWT5P     0        0
+ ertan-263 B094R285G6     0        0
+ ertan-264 B086J11C7N     0        0
+ ertan-265 B07QJFTJG3     0        0
+ ertan-266 B095N4T57W     0        0
+ ertan-267 B08Q323FTT     0        0
+ ertan-268 B08L93YPTQ     0        0
+ ertan-269 B0746NB3X4     0        0
+ ertan-270 B003VE16IM     0        0
+ ertan-271 B08MWG1YH7     0        0
+ ertan-272 B07T3W6WDT     0        0
+ ertan-273 B09ZDZ92GZ     0        0
+ ertan-274 B07DYM7HLS     0        0
+ ertan-275 B07WZGCGKS     0        0
+ ertan-276 B08319KF76     0        0
+ ertan-277 B07BGSCMGJ     0        0
+ ertan-278 B001VZ8QMW     0        0
+ ertan-279 B08TBST6NW     0        0
+ ertan-280 B091NL3ZZQ     0        0
+ ertan-281 B08LV3J45M     0        0
+ ertan-282 B08DXYJ29L     0        0
+ ertan-283 B0011451LM     0        0
+ ertan-284 B097LVT9RL     0        0
+ ertan-285 B0836C65KV     0        0
+ ertan-286 B09SWXGC7J     0        0
+ ertan-287 B00JDRS0D0     0        0
+ ertan-288 B07PPZHRXL     0        0
+ ertan-289 B01J927NY0     0        0
+ ertan-290 B07LBTVXCK     0        0
+ ertan-291 B08NVRRH18     0        0
+ ertan-292 B07YTMTBZW     0        0
+ ertan-293 B088TQ24LQ     0        0
+ ertan-294 B08P5MHCY3     0        0
+ ertan-295 B07FYTQTYS     0        0
+ ertan-296 B08L866L74     0        0
+ ertan-297 B08SQKXQRB     0        0
+ ertan-298 B08H54FZSZ     0        0
+ ertan-299 B098Q2PWWF     0        0
+ ertan-300 B094QLZD26     0        0
+ ertan-301 B08P783QTD     0        0
+ ertan-302 B07QGX2FLX     0        0
+ ertan-303 B00IN6VKRK     0        0
+ ertan-304 B075QJG8MR     0        0
+ ertan-305 B01FC7NDJ0     0        0
+ ertan-306 B09MCKMXTM     0        0
+ ertan-307 B091514M9J     0        0
+ ertan-308 B08K9B9SXT     0        0
+ ertan-309 B07H574CDG     0        0
+ ertan-310 B088WPM3K1     0        0
+ ertan-311 B08C2SKHDX     0        0
+ ertan-312 B0777N5N4Z     0        0
+ ertan-313 B0B2J81F4M     0        0
+ ertan-314 B0864V6FCQ     0        0
+ ertan-315 B01BSWPGGG     0        0
+ ertan-316 B01103ONHG     0        0
+ ertan-317 B08PKK8N7X     0        0
+ ertan-318 B01DYONRPS     0        0
+ ertan-319 B0865P2XTL     0        0
+ ertan-320 B01LYQTV2J     0        0
+ ertan-321 B00HIAQY8C     0        0
+ ertan-322 B08L51K3PW     0        0
+ ertan-323 B07S522T6G     0        0
+ ertan-324 B09J919TP5     0        0
+ ertan-325 B09M3MNB8Y     0        0
+ ertan-326 B09QK5QMXR     0        0
+ ertan-327 B07Z3RTY7J     0        0
+ ertan-328 B01GVLMV8U     0        0
+ ertan-329 B083TGFN1L     0        0
+ ertan-330 B0928TRWF2     0        0
+ ertan-331 B07VF3QGC2     0        0
+ ertan-332 B07VDJ4SPV     0        0
+ ertan-333 B09CYMHCCR     0        0
+ ertan-334 B07XFCK5NZ     0        0
+ ertan-335 B01JO452ZU     0        0
+ ertan-336 B08CXCJRYP     0        0
+ ertan-337 B07D3KZXYL     0        0
+ ertan-338 B08TBXJGP8     0        0
+ ertan-339 B08BL3QXMP     0        0
+ ertan-340 B0046IGH9K     0        0
+ ertan-341 B08962S5YD     0        0
+ ertan-342 B08MKG68L1     0        0
+ ertan-343 B08B58BLKR     0        0
+ ertan-344 B079M4KQKJ     0        0
+ ertan-345 B018FXGZ6Q     0        0
+ ertan-346 B091C82LKQ     0        0
+ ertan-347 B08MBN2N3S     0        0
+ ertan-348 B07XBP3PRN     0        0
+ ertan-349 B07W5XXNSW     0        0
+ ertan-350 B085CFYR77     0        0
+ ertan-351 B07MNDFDJK     0        0
+ ertan-352 B083KKH3VT     0        0
+ ertan-353 B07RLXBJMN     0        0
+ ertan-354 B081VWFS2B     0        0
+ ertan-355 B01B9YMU2Q     0        0
+ ertan-356 B0892S8ZM2     0        0
+ ertan-357 B08JV2DL5C     0        0
+ ertan-358 B097D3438T     0        0
+ ertan-359 B071NMVYC7     0        0
+ ertan-360 B01KHEF0V2     0        0
+ ertan-361 B0885TK1MR     0        0
+ ertan-362 B08JTYDMD1     0        0
+ ertan-363 B08K93YK8J     0        0
+ ertan-364 B086KKWHKS     0        0
+ ertan-365 B0B4C7P5S7     0        0
+ ertan-366 B00LFTMKXK     0        0
+ ertan-367 B07P1L9Y1N     0        0
+ ertan-368 B074S5FRV3     0        0
+ ertan-369 B09PHRR5HZ     0        0
+ ertan-370 B0714PTNX9     0        0
+ ertan-371 B08FCDC7BX     0        0
+ ertan-372 B01LCKD5QW     0        0
+ ertan-373 B08WRQ6CWM     0        0
+ ertan-374 B005WZJOKA     0        0
+ ertan-375 B08GWKVPDH     0        0
+ ertan-376 B07Z5X3HMY     0        0
+ ertan-377 B083VVM1DX     0        0
+ ertan-378 B0747Q36B6     0        0
+ ertan-379 B08NDDTWGM     0        0
+ ertan-380 B0B3SH6GFL     0        0
+ ertan-381 B09CDYN1PV     0        0
+ ertan-382 B09LSGPHT3     0        0
+ ertan-383 B08VMNZ3JR     0        0
+ ertan-384 B00H6XY73A     0        0
+ ertan-385 B00JBNCC44     0        0
+ ertan-386 B08PNQHLTV     0        0
+ ertan-387 B08CXSW31V     0        0
+ ertan-388 B08T71HZB6     0        0
+ ertan-389 B07QFB12Q2     0        0
+ ertan-390 B07RWRT6JQ     0        0
+ ertan-391 B0918CQDD7     0        0
+ ertan-392 B09Q2YBFXR     0        0
+ ertan-393 B01569FXVK     0        0
+ ertan-394 B08QFCWF8B     0        0
+ ertan-395 B07JFRMZL7     0        0
+ ertan-396 B07WRMVJ23     0        0
+ ertan-397 B088W5SJ8L     0        0
+ ertan-398 B094YP6GL9     0        0
+ ertan-399 B0B21C7WZ5     0        0
+ ertan-400 B07Z5MRWMP     0        0
+ ertan-401 B08B8QWZR1     0        0
+ ertan-402 B088WD3KTM     0        0
+ ertan-403 B07ZSGJGV6     0        0
+ ertan-404 B08NH6HR42     0        0
+ ertan-405 B0193YRJ2K     0        0
+ ertan-406 B0791DM6SJ     0        0
+ ertan-407 B08LDCBY89     0        0
+ ertan-408 B07VJYSP94     0        0
+ ertan-409 B07RJM46MV     0        0
+ ertan-410 B07W8GJZ5W     0        0
+ ertan-411 B08L6P9DFX     0        0
+ ertan-412 B07WRH2ZPW     0        0
+ ertan-413 B072JJQ437     0        0
+ ertan-414 B08H221392     0        0
+ ertan-415 B083SBC8PC     0        0
+ ertan-416 B08C9TMC3L     0        0
+ ertan-417 B0714MR9HY     0        0
+ ertan-418 B0B1551D8Z     0        0
+ ertan-419 B085H6V2L1     0        0
+ ertan-420 B085773MJD     0        0
+ ertan-421 B09G9PWBGV     0        0
+ ertan-422 B07G2GPBB1     0        0
+ ertan-423 B08T97K2XG     0        0
+ ertan-424 B08PP16JPF     0        0
+ ertan-425 B0832MM53C     0        0
+ ertan-426 B07Y7ZVHGQ     0        0
+ ertan-427 B0B2QR18WV     0        0
+ ertan-428 B08BHQKWMJ     0        0
+ ertan-429 B09QJYMXPH     0        0
+ ertan-430 B07MH37WCQ     0        0
+ ertan-431 B0788YXMM8     0        0
+ ertan-432 B0045HE4RO     0        0
+ ertan-433 B06VWGR65N     0        0
+ ertan-434 B015YL7WN2     0        0
+ ertan-435 B08GQ4DKN1     0        0
+ ertan-436 B09XHFPT6N     0        0
+ ertan-437 B089Y1Z9V6     0        0
+ ertan-438 B00BTOFYLQ     0        0
+ ertan-439 B08XVW7XC5     0        0
+ ertan-440 B08DMRW5MC     0        0
+ ertan-441 B07R2BH63V     0        0
+ ertan-442 B08H8T58DV     0        0
+ ertan-443 B09R44Y9DL     0        0
+ ertan-444 B085XKR5DL     0        0
+ ertan-445 B01MXOPQ4K     0        0
+ ertan-446 B07VQGJBZ8     0        0
+ ertan-447 B08VJ2HTGV     0        0
+ ertan-448 B097R5S5VV     0        0
+ ertan-449 B00OZLSYYY     0        0
+ ertan-450 B07FB9X39B     0        0
+ ertan-451 B089DK9KFP     0        0
+ ertan-452 B07QML4RN1     0        0
+ ertan-453 B07Z4BNHPP     0        0
+ ertan-454 B07QS75N1M     0        0
+ ertan-455 B07W3M1WXP     0        0
+ ertan-456 B0894PHGX6     0        0
+ ertan-457 B07Q7TY49S     0        0
+ ertan-458 B01FRGNCF6     0        0
+ ertan-459 B09S5Q8T8X     0        0
+ ertan-460 B07NXTGNLW     0        0
+ ertan-461 B07K1XL822     0        0
+ ertan-462 B07WQ2PWHY     0        0
+ ertan-463 B07ZFG4YP8     0        0
+ ertan-464 B0845QVJHB     0        0
+ ertan-465 B081R88G9V     0        0
+ ertan-466 B074YHPSYS     0        0
+ ertan-467 B07BJ8V9YR     0        0
+ ertan-468 B09X9YMQMT     0        0
+ ertan-469 B07YF24PK7     0        0
+ ertan-470 B075WYNQMJ     0        0
+ ertan-471 B07Q576LMW     0        0
+ ertan-472 B09196V3VD     0        0
+ ertan-473 B07WVSDB8W     0        0
+ ertan-474 B07V5V3MQY     0        0
+ ertan-475 B081RD7H1K     0        0
+ ertan-476 B07GXXDDCN     0        0
+ ertan-477 B08GJFTQ3F     0        0
+ ertan-478 B07VRCFKQR     0        0
+ ertan-479 B08L7JRVGS     0        0
+ ertan-480 B099626C21     0        0
+ ertan-481 B08Z3VRWMF     0        0
+ ertan-482 B07V5VS3FB     0        0
+ ertan-483 B09HV1LXL3     0        0
+ ertan-484 B07H8N62HS     0        0
+ ertan-485 B0B533Y6YJ     0        0
+ ertan-486 B08CXBFN2K     0        0
+ ertan-487 B01MQVNM3R     0        0
+ ertan-488 B08M62NWTG     0        0
+ ertan-489 B0157T1ZK2     0        0
+ ertan-490 B007RZKCY0     0        0
+ ertan-491 B07D3K9K5D     0        0
+ ertan-492 B07Y27HMJT     0        0
+ ertan-493 B00YFJI4AU     0        0
+ ertan-494 B06XGLCTPM     0        0
+ ertan-495 B00RW8IG8G     0        0
+ ertan-496 B01CRM9L44     0        0
+ ertan-497 B014HLUU2U     0        0
+ ertan-498 B09P8623QT     0        0
+ ertan-499 B01KXAQZQO     0        0
+ ertan-500 B097TD4K25     0        0
+ ertan-501 B09GTZ1ZBL     0        0
+ ertan-502 B08LD8CK9H     0        0
+ ertan-503 B07WLT6SCD     0        0
+ ertan-504 B09Z7K9FB9     0        0
+ ertan-505 B076BQYP62     0        0
+ ertan-506 B00JXBEFAS     0        0
+ ertan-507 B077CPBD4K     0        0
+ ertan-508 B08H5GYSB2     0        0
+ ertan-509 B000GKW8VI     0        0
+ ertan-510 B07WT7HXDR     0        0
+ ertan-511 B08YWBVP67     0        0
+ ertan-512 B0792J5NGK     0        0
+ ertan-513 B077LVCWDQ     0        0
+ ertan-514 B095HZ4YFX     0        0
+ ertan-515 B08HSGZDDC     0        0
+ ertan-516 B075KMH6C8     0        0
+ ertan-517 B003USYYUQ     0        0
+ ertan-518 B08CX6V4NQ     0        0
+ ertan-519 B093GNK257     0        0
+ ertan-520 B07B9JGRDV     0        0
+ ertan-521 B00NIV0UVM     0        0
+ ertan-522 B095CGJ9ZP     0        0
+ ertan-523 B0048GTY22     0        0
+ ertan-524 B01N6JPK0Z     0        0
+ ertan-525 B07BRCC54Z     0        0
+ ertan-526 B08KD8DJNP     0        0
+ ertan-527 B07TS9BJPK     0        0
+ ertan-528 B077FX3FGH     0        0
+ ertan-529 B08TH93HZ6     0        0
+ ertan-530 B09F2ZQ2YN     0        0
+ ertan-531 B003FC6WT8     0        0
+ ertan-532 B007RAQTTC     0        0
+ ertan-533 B0775QFJXW     0        0
+ ertan-534 B08LBLR8VG     0        0
+ ertan-535 B00K7VVUOC     0        0
+ ertan-536 B082KLK9KH     0        0
+ ertan-537 B07S165RZM     0        0
+ ertan-538 B07GWPC7L4     0        0
+ ertan-539 B087Q3LFQB     0        0
+ ertan-540 B08Q3DSPC8     0        0
+ ertan-541 B083WJ98GZ     0        0
+ ertan-542 B08PBXJNLZ     0        0
+ ertan-543 B07HBBGBVK     0        0
+ ertan-544 B09N7531PL     0        0
+ ertan-545 B07H1PN3LR     0        0
+ ertan-546 B09BC21FTD     0        0
+ ertan-547 B08RYSMN8N     0        0
+ ertan-548 B00IXCZAV6     0        0
+ ertan-549 B07QNNYQ4H     0        0
+ ertan-550 B00RLCZJBU     0        0
+ ertan-551 B09VLFYLR4     0        0
+ ertan-552 B07QBB7GN6     0        0
+ ertan-553 B01N04L6MN     0        0
+ ertan-554 B07FZY181K     0        0
+ ertan-555 B0B6VN4TKK     0        0
+ ertan-556 B0B4DCZM9W     0        0
+ ertan-557 B07DC4BKXF     0        0
+ ertan-558 B07PK1XXZT     0        0
+ ertan-559 B07RGQXC42     0        0
+ ertan-560 B0051A5K9U     0        0
+ ertan-561 B07Q6HHDJ4     0        0
+ ertan-562 B07F851TP3     0        0
+ ertan-563 B07DBZSQQL     0        0
+ ertan-564 B07SGMRTV1     0        0
+ ertan-565 B08NJJQHRK     0        0
+ ertan-566 B09ZXWGBB8     0        0
+ ertan-567 B07D9R8ZBC     0        0
+ ertan-568 B08S33WSWY     0        0
+ ertan-569 B01N6P5TD3     0        0
+ ertan-570 B08NYR3Y3K     0        0
+ ertan-571 B08XPQ52LX     0        0
+ ertan-572 B01N673UH6     0        0
+ ertan-573 B08DQW242G     0        0
+ ertan-574 B07TJGVLXS     0        0
+ ertan-575 B081S6RJLJ     0        0
+ ertan-576 B08C7TGFS3     0        0
+ ertan-577 B089T6ZVVX     0        0
+ ertan-578 B081Y8YW1J     0        0
+ ertan-579 B08LKMBMD2     0        0
+ ertan-580 B07X14NWJG     0        0
+ ertan-581 B086HP63K9     0        0
+ ertan-582 B082HG88QZ     0        0
+ ertan-583 B0836Z7PWG     0        0
+ ertan-584 B09CCXNTQT     0        0
+ ertan-585 B08N4168TK     0        0
+ ertan-586 B07TV1TYXK     0        0
+ ertan-587 B07L89S4VX     0        0
+ ertan-588 B08XXBYRV1     0        0
+ ertan-589 B07DQGV84Y     0        0
+ ertan-590 B082PS6MFH     0        0
+ ertan-591 B07S46LNDW     0        0
+ ertan-592 B00DV6APQO     0        0
+ ertan-593 B08F7F4TCR     0        0
+ ertan-594 B096ZXY48V     0        0
+ ertan-595 B08JTN9P2D     0        0
+ ertan-596 B08DVGBSQC     0        0
+ ertan-597 B08XZ1QY9R     0        0
+ ertan-598 B08GS612FH     0        0
+ ertan-599 B08312SW5H     0        0
+ ertan-600 B08H8R5C56     0        0
+ ertan-601 B09XCWL764     0        0
+ ertan-602 B08CDV4QHG     0        0
+ ertan-603 B08L4MTN45     0        0
+ ertan-604 B07JZBP7VF     0        0
+ ertan-605 B0B1JDDCNL     0        0
+ ertan-606 B0B1WBJ2BR     0        0
+ ertan-607 B0141QSMCG     0        0
+ ertan-608 B07SD7D7LC     0        0
+ ertan-609 B085RK5HXF     0        0
+ ertan-610 B08YFD2L24     0        0
+ ertan-611 B07G7ZYJNP     0        0
+ ertan-612 B08278N6SW     0        0
+ ertan-613 B07DPBMB61     0        0
+ ertan-614 B07588KFZ9     0        0
+ ertan-615 B09QW66F3M     0        0
+ ertan-616 B088BG354J     0        0
+ ertan-617 B09PLJ4TQY     0        0
+ ertan-618 B09K738WQ7     0        0
+ ertan-619 B07X48LV7K     0        0
+ ertan-620 B09FTMXHFR     0        0
+ ertan-621 B09LYKSXMM     0        0
+ ertan-622 B0B6V95ZPF     0        0
+ ertan-623 B01NCQ5AG0     0        0
+ ertan-624 B013RXJODU     0        0
+ ertan-625 B08SBZW6HX     0        0
+ ertan-626 B08F92GYWF     0        0
+ ertan-627 B07SDCQB2R     0        0
+ ertan-628 B01MXMN6MG     0        0
+ ertan-629 B00CKK1M96     0        0
+ ertan-630 B08PK3P2CW     0        0
+ ertan-631 B09JP17WXL     0        0
+ ertan-632 B01MS6XXOB     0        0
+ ertan-633 B08FWXXDBM     0        0
+ ertan-634 B07VQYFCTL     0        0
+ ertan-635 B07BL1Z19L     0        0
+ ertan-636 B09XM9VKWK     0        0
+ ertan-637 B07GT9CJSP     0        0
+ ertan-638 B08HD92S48     0        0
+ ertan-639 B07XYJFXBC     0        0
+ ertan-640 B08C7Y42JL     0        0
+ ertan-641 B07CP6H5FM     0        0
+ ertan-642 B08HQH1GQ6     0        0
+ ertan-643 B07RDJ8B6W     0        0
+ ertan-644 B015BYCPL6     0        0
+ ertan-645 B087FQLQZT     0        0
+ ertan-646 B09FP92RVT     0        0
+ ertan-647 B01N5PW4PD     0        0
+ ertan-648 B07PPWS2G8     0        0
+ ertan-649 B092T84KLC     0        0
+ ertan-650 B07Y7W8D8P     0        0
+ ertan-651 B091XWSKDP     0        0
+ ertan-652 B07Q6QMR8S     0        0
+ ertan-653 B08L647R1M     0        0
+ ertan-654 B0978C7KP6     0        0
+ ertan-655 B08KS184PV     0        0
+ ertan-656 B095YHQF34     0        0
+ ertan-657 B073RGFMX4     0        0
+ ertan-658 B084KY8BDT     0        0
+ ertan-659 B07VZM4JLS     0        0
+ ertan-660 B09BB1597D     0        0
+ ertan-661 B08P2VW9X2     0        0
+ ertan-662 B07H8B8SLK     0        0
+ ertan-663 B07XNT9YRK     0        0
+ ertan-664 B01FR6LLNG     0        0
+ ertan-665 B085PVXJBX     0        0
+ ertan-666 B08KW2HHZ3     0        0
+ ertan-667 B07Y2GG69D     0        0
+ ertan-668 B09MQ8RY2Q     0        0
+ ertan-669 B07NYBCZBC     0        0
+ ertan-670 B0932XM9C7     0        0
+ ertan-671 B0969B9HG6     0        0
+ ertan-672 B08HVXDJD8     0        0
+ ertan-673 B07MZNKJQK     0        0
+ ertan-674 B09WMFDKRS     0        0
+ ertan-675 B075P1198B     0        0
+ ertan-676 B01H2669YA     0        0
+ ertan-677 B0B28X866V     0        0
+ ertan-678 B08TCFWP5G     0        0
+ ertan-679 B0933GK8QS     0        0
+ ertan-680 B01K1N1HS4     0        0
+ ertan-681 B01MR5DXEI     0        0
+ ertan-682 B0B4SGH8H5     0        0
+ ertan-683 B08RJP9CVD     0        0
+ ertan-684 B08TW7L98C     0        0
+ ertan-685 B08XXV1FNP     0        0
+ ertan-686 B089M69JFP     0        0
+ ertan-687 B09Q3KJ75P     0        0
+ ertan-688 B07F124MSS     0        0
+ ertan-689 B07JN7KCVD     0        0
+ ertan-690 B07BVFSQN8     0        0
+ ertan-691 B082G1BP4B     0        0
+ ertan-692 B079THLFQ8     0        0
+ ertan-693 B01KKLCKYC     0        0
+ ertan-694 B08XLVH68S     0        0
+ ertan-695 B08DQM3DTC     0        0
+ ertan-696 B08X71HZTZ     0        0
+ ertan-697 B07NVDPZ3R     0        0
+ ertan-698 B08LKVPMPT     0        0
+ ertan-699 B09FZTK4YZ     0        0
+ ertan-700 B09P74MB62     0        0
+ ertan-701 B07Z9XQTYY     0        0
+ ertan-702 B08QJPHRZX     0        0
+ ertan-703 B01M750UL3     0        0
+ ertan-704 B075JFC2YQ     0        0
+ ertan-705 B00M79PI0O     0        0
+ ertan-706 B07KXRNV7T     0        0
+ ertan-707 B07M6KSRJM     0        0
+ ertan-708 B01L65MI8O     0        0
+ ertan-709 B08T5Z5SFM     0        0
+ ertan-710 B0972J58RK     0        0
+ ertan-711 B01N10GW52     0        0
+ ertan-712 B08F4SL5CL     0        0
+ ertan-713 B00DUG2JKA     0        0
+ ertan-714 B092Q2KF9Q     0        0
+ ertan-715 B01EYWX81C     0        0
+ ertan-716 B09G6GQCKG     0        0
+ ertan-717 B07SFCY2ZP     0        0
+ ertan-718 B07PGB39PB     0        0
+ ertan-719 B08FC192CF     0        0
+ ertan-720 B00SAK8IS8     0        0
+ ertan-721 B086WB12XT     0        0
+ ertan-722 B01HISXVPW     0        0
+ ertan-723 B07JF9DV8J     0        0
+ ertan-724 B0B37D7Y61     0        0
+ ertan-725 B08HYNNBCN     0        0
+ ertan-726 B08J865YHL     0        0
+ ertan-727 B08ZLLBVD1     0        0
+ ertan-728 B0B4JW58XM     0        0
+ ertan-729 B082CY71NF     0        0
+ ertan-730 B09G6R3937     0        0
+ ertan-731 B072FRR312     0        0
+ ertan-732 B08P8F9HG9     0        0
+ ertan-733 B07P8N844L     0        0
+ ertan-734 B07TNPK8HX     0        0
+ ertan-735 B0797GFRPZ     0        0
+ ertan-736 B07Q2WDQPV     0        0
+ ertan-737 B00L3E5RV4     0        0
+ ertan-738 B077Y42FW3     0        0
+ ertan-739 B084Q7C69Y     0        0
+ ertan-740 B01HDUY22Q     0        0
+ ertan-741 B07QJCWVK3     0        0
+ ertan-742 B08DXT43VG     0        0
+ ertan-743 B07VQ3CZBK     0        0
+ ertan-744 B08B4JB62L     0        0
+ ertan-745 B07F85M38X     0        0
+ ertan-746 B09736NTZL     0        0
+ ertan-747 B088R77MY4     0        0
+ ertan-748 B08QMN4LGB     0        0
+ ertan-749 B0989DXGCJ     0        0
+ ertan-750 B019RDYO70     0        0
+ ertan-751 B082BKB4T5     0        0
+ ertan-752 B089MG5GVJ     0        0
+ ertan-753 B08BJTMQ27     0        0
+ ertan-754 B07FM5B5XK     0        0
+ ertan-755 B08DVD2T6V     0        0
+ ertan-756 B0836BPQTY     0        0
+ ertan-757 B09VXG7H1M     0        0
+ ertan-758 B07VPPMFS2     0        0
+ ertan-759 B09XVG43BJ     0        0
+ ertan-760 B08MJC39SS     0        0
+ ertan-761 B07GYB23LD     0        0
+ ertan-762 B01BNSJLZ2     0        0
+ ertan-763 B08FTHZZKD     0        0
+ ertan-764 B07S63RR7M     0        0
+ ertan-765 B0782P2SN4     0        0
+ ertan-766 B09CTFRFTH     0        0
+ ertan-767 B07PHQFC9B     0        0
+ ertan-768 B08165Q577     0        0
+ ertan-769 B06XR5NHPT     0        0
+ ertan-770 B08VW3YRBY     0        0
+ ertan-771 B07HDYPV35     0        0
+ ertan-772 B07CNGWZCH     0        0
+ ertan-773 B09R7LTN18     0        0
+ ertan-774 B07K49R3NT     0        0
+ ertan-775 B07JBR2KC9     0        0
+ ertan-776 B07S2QFZQ5     0        0
+ ertan-777 B079G41G6P     0        0
+ ertan-778 B07PZKZHJH     0        0
+ ertan-779 B07R87VTRB     0        0
+ ertan-780 B09735LWBC     0        0
+ ertan-781 B08H1JCLZV     0        0
+ ertan-782 B095HT48MY     0        0
+ ertan-783 B08XN7QNP3     0        0
+ ertan-784 B07VJ1JZJN     0        0
+ ertan-785 B08B122HMB     0        0
+ ertan-786 B096ZRJJLJ     0        0
+ ertan-787 B09MP2TLJ7     0        0
+ ertan-788 B09137VHKN     0        0
+ ertan-789 B07S1TF37W     0        0
+ ertan-790 B0B3GFHR4N     0        0
+ ertan-791 B07HJ87RPW     0        0
+ ertan-792 B085WQ2HZX     0        0
+ ertan-793 B08FJCMGLR     0        0
+ ertan-794 B0919HHYVN     0        0
+ ertan-795 B08PNJW858     0        0
+ ertan-796 B09R1P7FPN     0        0
+ ertan-797 B07LFLR7V4     0        0
+ ertan-798 B081RGXFV1     0        0
+ ertan-799 B08DQGQ2D9     0        0
+ ertan-800 B09G54FB3N     0        0
+ ertan-801 B08PCZZZF1     0        0
+ ertan-802 B01J51TDPC     0        0
+ ertan-803 B08KXR5M73     0        0
+ ertan-804 B015HGZOFC     0        0
+ ertan-805 B077FV8VYC     0        0
+ ertan-806 B08HX7KZWZ     0        0
+ ertan-807 B07X9BT2G5     0        0
+ ertan-808 B08CSH4WG7     0        0
+ ertan-809 B08DD3JMR4     0        0
+ ertan-810 B088TD8FV2     0        0
+ ertan-811 B07GXL88HC     0        0
+ ertan-812 B09BVSRFJ9     0        0
+ ertan-813 B08LZDRJGL     0        0
+ ertan-814 B07ZFQ9RBM     0        0
+ ertan-815 B07VQY9TY3     0        0
+ ertan-816 B07Q4RP1JK     0        0
+ ertan-817 B08JLT341H     0        0
+ ertan-818 B09YRYQN6Q     0        0
+ ertan-819 B0994J959J     0        0
+ ertan-820 B07Q2WJVVM     0        0
+ ertan-821 B06WLNV6FY     0        0
+ ertan-822 B0769H411V     0        0
+ ertan-823 B08BJRYL8K     0        0
+ ertan-824 B00P8NQ9GS     0        0
+ ertan-825 B008RPRJUY     0        0
+ ertan-826 B08W43SQ6M     0        0
+ ertan-827 B09QH36MQY     0        0
+ ertan-828 B08DVFK7YW     0        0
+ ertan-829 B099239X66     0        0
+ ertan-830 B07HC95J5H     0        0
+ ertan-831 B086PC1KVB     0        0
+ ertan-832 B07JQVCBB3     0        0
+ ertan-833 B07CDCQDTJ     0        0
+ ertan-834 B09B649VTL     0        0
+ ertan-835 B083BQ6NYF     0        0
+ ertan-836 B01FZHM1BS     0        0
+ ertan-837 B07X93DRMV     0        0
+ ertan-838 B0981SJKD5     0        0
+ ertan-839 B07NZ4FHPN     0        0
+ ertan-840 B07PZKQRLT     0        0
+ ertan-841 B093JXDHBQ     0        0
+ ertan-842 B0875SLYFB     0        0
+ ertan-843 B07B6QQHQ8     0        0
+ ertan-844 B084KRM17M     0        0
+ ertan-845 B07WVRVS3M     0        0
+ ertan-846 B09MM2TVV1     0        0
+ ertan-847 B08MT1BMMJ     0        0
+ ertan-848 B08QZ7CWPP     0        0
+ ertan-849 B08BJTLQFP     0        0
+ ertan-850 B08JHLGPKR     0        0
+ ertan-851 B08ZMKVFGG     0        0
+ ertan-852 B012E40OGY     0        0
+ ertan-853 B087B3DKL7     0        0
+ ertan-854 B095KBCYFQ     0        0
+ ertan-855 B00W4Q0HR4     0        0
+ ertan-856 B0936868WT     0        0
+ ertan-857 B0813XJT5M     0        0
+ ertan-858 B07FTRDVCY     0        0
+ ertan-859 B078FX13D4     0        0
+ ertan-860 B07G5BLTX4     0        0
+ ertan-861 B09MTSLGNV     0        0
+ ertan-862 B092R6BQB7     0        0
+ ertan-863 B08GKJQRFX     0        0
+ ertan-864 B08MFCPSFT     0        0
+ ertan-865 B07NTXY9HV     0        0
+ ertan-866 B082RP3V7F     0        0
+ ertan-867 B08DJ4KFWD     0        0
+ ertan-868 B01N5XRWZ4     0        0
+ ertan-869 B076WCC184     0        0
+ ertan-870 B001FOPU1O     0        0
+ ertan-871 B07LF7TZGD     0        0
+ ertan-872 B01KOQQT4K     0        0
+ ertan-873 B07XC4K83G     0        0
+ ertan-874 B07S642KY5     0        0
+ ertan-875 B07NY84CL5     0        0
+ ertan-876 B076H36TXR     0        0
+ ertan-877 B07DHFCSKP     0        0
+ ertan-878 B089WG5SD3     0        0
+ ertan-879 B08NCT8WV9     0        0
+ ertan-880 B08721P34Q     0        0
+ ertan-881 B07YWYT5MY     0        0
+ ertan-882 B08JGH2854     0        0
+ ertan-883 B099PP5L4S     0        0
+ ertan-884 B0B2DKTS3T     0        0
+ ertan-885 B07KFNLNC5     0        0
+ ertan-886 B004ZTDADG     0        0
+ ertan-887 B06VY6K8JW     0        0
+ ertan-888 B07SZLHZ9X     0        0
+ ertan-889 B01N7KIDW0     0        0
+ ertan-890 B07PGTNZK9     0        0
+ ertan-891 B087TMGYZX     0        0
+ ertan-892 B08MVWZ4N8     0        0
+ ertan-893 B09YY88GVH     0        0
+ ertan-894 B08KCX4D35     0        0
+ ertan-895 B07NZVXYBZ     0        0
+ ertan-896 B07NZ1FR52     0        0
+ ertan-897 B091YM2PB1     0        0
+ ertan-898 B095HZX5H5     0        0
+ ertan-899 B08CFSH35V     0        0
+ ertan-900 B09NZH5M3W     0        0
+ ertan-901 B09BMSK9YR     0        0
+ ertan-902 B01FVXQDKG     0        0
+ ertan-903 B005X1NV20     0        0
+ ertan-904 B088DFVYL5     0        0
+ ertan-905 B0937F9C9G     0        0
+ ertan-906 B09PB2G1C6     0        0
+ ertan-907 B085X25HLF     0        0
+ ertan-908 B09L85F3VR     0        0
+ ertan-909 B0842ZJGFF     0        0
+ ertan-910 B07GW6YLHG     0        0
+ ertan-911 B07S9RZZCK     0        0
+ ertan-912 B09Q1ZQ131     0        0
+ ertan-913 B097Q736TV     0        0
+ ertan-914 B08L1VYW5V     0        0
+ ertan-915 B09WPM3ZVC     0        0
+ ertan-916 B09WB2CPRV     0        0
+ ertan-917 B08MKNYY26     0        0
+ ertan-918 B07CWLJSDX     0        0
+ ertan-919 B08QRRBJHK     0        0
+ ertan-920 B07H5BMVGK     0        0
+ ertan-921 B09BQ1564C     0        0
+ ertan-922 B07MQLK3BH     0        0
+ ertan-923 B079K3G3XW     0        0
+ ertan-924 B07VLXSZ6P     0        0
+ ertan-925 B09C25WKB1     0        0
+ ertan-926 B07VWT51VC     0        0
+ ertan-927 B08CR1K43F     0        0
+ ertan-928 B002XE6Z6O     0        0
+ ertan-929 B08BHHNT72     0        0
+ ertan-930 B08XV8GD7V     0        0
+ ertan-931 B07S898F2H     0        0
+ ertan-932 B086WB42KL     0        0
+ ertan-933 B08DKZW8Q3     0        0
+ ertan-934 B07S42BRSN     0        0
+ ertan-935 B07F371Z8Y     0        0
+ ertan-936 B083K92TLB     0        0
+ ertan-937 B09G2X324B     0        0
+ ertan-938 B09NPT6XJ6     0        0
+ ertan-939 B07QMKR91D     0        0
+ ertan-940 B078PP71WD     0        0
+ ertan-941 B08ZKRTZFL     0        0
+ ertan-942 B09ZP63T3C     0        0
+ ertan-943 B08BHW7J86     0        0
+ ertan-944 B08717XVWN     0        0
+ ertan-945 B07NP6TJPG     0        0
+ ertan-946 B09YM3LX1F     0        0
+ ertan-947 B09G95311Y     0        0
+ ertan-948 B0838MHCPM     0        0
+ ertan-949 B08C52LLFD     0        0
+ ertan-950 B0B1GZCLMX     0        0
+ ertan-951 B091MLD172     0        0
+ ertan-952 B07RFF3QX1     0        0
+ ertan-953 B0991YQRCV     0        0
+ ertan-954 B07H7D68PN     0        0
+ ertan-955 B09969568H     0        0
+ ertan-956 B0912LG1F6     0        0
+ ertan-957 B08THKMG62     0        0
+ ertan-958 B089B6YFPQ     0        0
+ ertan-959 B083HTXGPY     0        0
+ ertan-960 B081Q6FNNC     0        0
+ ertan-961 B08GQVR9JY     0        0
+ ertan-962 B07M5YJ84M     0        0
+ ertan-963 B08RXRMBLJ     0        0
+ ertan-964 B07JW8477L     0        0
+ ertan-965 B085HPMLK6     0        0
+ ertan-966 B083SN4YN1     0        0
+ ertan-967 B09S61GZMR     0        0
+ ertan-968 B08JGF9GBV     0        0
+ ertan-969 B082YYFKB9     0        0
+ ertan-970 B085VGKZCK     0        0
+ ertan-971 B07H69K7H7     0        0
+ ertan-972 B08WKP8BFW     0        0
+ ertan-973 B08998DB76     0        0
+ ertan-974 B0021FBI3U     0        0
+ ertan-975 B092DS65LQ     0        0
+ ertan-976 B09VPQ84T6     0        0
+ ertan-977 B07X5S1MYJ     0        0
+ ertan-978 B08JQ24TCQ     0        0
+ ertan-979 B07DHYLRFT     0        0
+ ertan-980 B07WFCFMD2     0        0
+ ertan-981 B074SKQQ2D     0        0
+ ertan-982 B01BD6FG7G     0        0
+ ertan-983 B07Q292TFG     0        0
+ ertan-984 B0796QMGMV     0        0
+ ertan-985 B07KQWSV8W     0        0
+ ertan-986 B0851ZFRCP     0        0
+ ertan-987 B07QKNG9C7     0        0
+ ertan-988 B093JZFT6P     0        0
+ ertan-989 B0797KJQQJ     0        0
+ ertan-990 B07MV6Z896     0        0
+ ertan-991 B0919X78Y5     0        0
+ ertan-992 B07V35TXXN     0        0
+ ertan-993 B00BQ4HWL4     0        0
+ ertan-994 B08NX5J684     0        0
+ ertan-995 B08CN6NZ4R     0        0
+ ertan-996 B01H2ULV8K     0        0
+ ertan-997 B077N69DLD     0        0
+ ertan-998 B08JCQW7SZ     0        0
+ ertan-999 B07K6GRKCM     0        0
+ertan-1000 B01G2YP6CY     0        0
+ertan-1001 B09R69JZCG     0        0
+ertan-1002 B0773LLSSP     0        0
+ertan-1003 B01M9IDRPF     0        0
+ertan-1004 B07ZWJHQK7     0        0
+ertan-1005 B08TG1QB2B     0        0
+ertan-1006 B06XH2H1MN     0        0
+ertan-1007 B008G40WOQ     0        0
+ertan-1008 B09W25DL3W     0        0
+ertan-1009 B07X5B9GT6     0        0
+ertan-1010 B08WCXBCF3     0        0
+ertan-1011 B01JQOQLGC     0        0
+ertan-1012 B01MRXCF4T     0        0
+ertan-1013 B091JSHQ14     0        0
+ertan-1014 B07MR1BVJN     0        0
+ertan-1015 B083V5185H     0        0
+ertan-1016 B0B69DBMTM     0        0
+ertan-1017 B0863J2ZPL     0        0
+ertan-1018 B00R345K2Y     0        0
+ertan-1019 B08SJ8DXP3     0        0
+ertan-1020 B089Q3PGRV     0        0
+ertan-1021 B0946TB9CQ     0        0
+ertan-1022 B07H9C8MDY     0        0
+ertan-1023 B07BMPPWPB     0        0
+ertan-1024 B07QM5RB12     0        0
+ertan-1025 B071FJQXKY     0        0
+ertan-1026 B08ZSQRP2L     0        0
+ertan-1027 B07QTVSD98     0        0
+ertan-1028 B08HVNHKVT     0        0
+ertan-1029 B07Q34ZMZX     0        0
+ertan-1030 B071752HKZ     0        0
+ertan-1031 B01M7XOMTK     0        0
+ertan-1032 B08CZHGMMP     0        0
+ertan-1033 B08C5H1DXY     0        0
+ertan-1034 B0994S8BFV     0        0
+ertan-1035 B075FCBHGC     0        0
+ertan-1036 B08LTPFPPX     0        0
+ertan-1037 B07DNJ8L9Y     0        0
+ertan-1038 B07XY8J5QC     0        0
+ertan-1039 B000MKKA94     0        0
+ertan-1040 B08JLGXHQG     0        0
+ertan-1041 B01H64JMAQ     0        0
+ertan-1042 B07P99M75W     0        0
+ertan-1043 B076Y4WGGL     0        0
+ertan-1044 B089SWLDNX     0        0
+ertan-1045 B07JLPQCMT     0        0
+ertan-1046 B08Y7NYY9G     0        0
+ertan-1047 B07F8T7WZJ     0        0
+ertan-1048 B08DCJ6RJW     0        0
+ertan-1049 B08M9STNRB     0        0
+ertan-1050 B09F8RVRXZ     0        0
+ertan-1051 B06XCMZWNN     0        0
+ertan-1052 B074L2RQ12     0        0
+ertan-1053 B07MQBKVK4     0        0
+ertan-1054 B06XKVVF5M     0        0
+ertan-1055 B08S35FLZW     0        0
+ertan-1056 B07X6GW9NT     0        0
+ertan-1057 B07PLW8SL8     0        0
+ertan-1058 B09L8423CX     0        0
+ertan-1059 B07YB91MTP     0        0
+ertan-1060 B09ZRT9C9C     0        0
+ertan-1061 B08CBK31S9     0        0
+ertan-1062 B07KXMRNSY     0        0
+ertan-1063 B0006TU7OO     0        0
+ertan-1064 B08DDJ66SZ     0        0
+ertan-1065 B084GN1FD3     0        0
+ertan-1066 B07LBWCRM7     0        0
+ertan-1067 B01NBIA749     0        0
+ertan-1068 B07BKRC3NG     0        0
+ertan-1069 B07W7PP815     0        0
+ertan-1070 B09ZQML2W3     0        0
+ertan-1071 B07GM5W24F     0        0
+ertan-1072 B089K7Z1HZ     0        0
+ertan-1073 B08ZHT7B4Z     0        0
+ertan-1074 B086N3SKMF     0        0
+ertan-1075 B09JW2FQ4H     0        0
+ertan-1076 B09DBRW992     0        0
+ertan-1077 B07L6DBGYZ     0        0
+ertan-1078 B08FJ8J4YJ     0        0
+ertan-1079 B07PH3NLWH     0        0
+ertan-1080 B086B8YGL2     0        0
+ertan-1081 B07ZWR3BC5     0        0
+ertan-1082 B09YTNMW5L     0        0
+ertan-1083 B00K1SW0N6     0        0
+ertan-1084 B07KG1GRCY     0        0
+ertan-1085 B09X1GG357     0        0
+ertan-1086 B07S2M7RBC     0        0
+ertan-1087 B00W8JNRM4     0        0
+ertan-1088 B08TR4L25X     0        0
+ertan-1089 B0858D5DYT     0        0
+ertan-1090 B07VGQPG2K     0        0
+ertan-1091 B08H8BM7MX     0        0
+ertan-1092 B0899HTLDM     0        0
+ertan-1093 B009T8PZR2     0        0
+ertan-1094 B089WFRR5F     0        0
+ertan-1095 B082DX6WR3     0        0
+ertan-1096 B0888FJH19     0        0
+ertan-1097 B07HJK1JJB     0        0
+ertan-1098 B07RTXR966     0        0
+ertan-1099 B073RVWFSG     0        0
+ertan-1100 B07H8J5F9Q     0        0
+ertan-1101 B087WRGT72     0        0
+ertan-1102 B08D9JLS9H     0        0
+ertan-1103 B078PY3YYP     0        0
+ertan-1104 B07WJ88JGY     0        0
+ertan-1105 B0982VBNGK     0        0
+ertan-1106 B09DXCRDVQ     0        0
+ertan-1107 B08PDXBGN6     0        0
+ertan-1108 B09FJP1NQ4     0        0
+ertan-1109 B08LHCB792     0        0
+ertan-1110 B08L9S391K     0        0
+ertan-1111 B081PS834V     0        0
+ertan-1112 B09TXQLQ1L     0        0
+ertan-1113 B005K98ASU     0        0
+ertan-1114 B09GXNW8YY     0        0
+ertan-1115 B09GLPL19R     0        0
+ertan-1116 B08N4D5RHP     0        0
+ertan-1117 B094QKMPRV     0        0
+ertan-1118 B07THJST43     0        0
+ertan-1119 B07NTV5LK1     0        0
+ertan-1120 B083NV1ZJG     0        0
+ertan-1121 B06XRXN7QT     0        0
+ertan-1122 B07589KVWM     0        0
+ertan-1123 B085J1M5B3     0        0
+ertan-1124 B08NV3BYW1     0        0
+ertan-1125 B089RH3V25     0        0
+ertan-1126 B07887X5YP     0        0
+ertan-1127 B08BPGBQDK     0        0
+ertan-1128 B0798SZZXT     0        0
+ertan-1129 B0B5Y5DP3L     0        0
+ertan-1130 B09PY68VM4     0        0
+ertan-1131 B09CPGRWVQ     0        0
+ertan-1132 B09SZ7DGYD     0        0
+ertan-1133 B0839K7VMK     0        0
+ertan-1134 B091YQJ7VF     0        0
+ertan-1135 B08HLKS2JR     0        0
+ertan-1136 B07Y72BG9X     0        0
+ertan-1137 B09YNS7J6K     0        0
+ertan-1138 B09XC68KZB     0        0
+ertan-1139 B08JLGFD8F     0        0
+ertan-1140 B082DH3RRS     0        0
+ertan-1141 B08Q89NZK8     0        0
+ertan-1142 B01H5AMDIE     0        0
+ertan-1143 B07SJNL9LQ     0        0
+ertan-1144 B09Z7QS9XG     0        0
+ertan-1145 B00AWBN55E     0        0
+ertan-1146 B07CZ6GXWJ     0        0
+ertan-1147 B08SLGDHVF     0        0
+ertan-1148 B088LCKHHZ     0        0
+ertan-1149 B07H2C4653     0        0
+ertan-1150 B0B5KV9ZF5     0        0
+ertan-1151 B07JQ7JNZQ     0        0
+ertan-1152 B08CS4DJGX     0        0
+ertan-1153 B09D3CPVLS     0        0
+ertan-1154 B07DS8P3SZ     0        0
+ertan-1155 B09F5S6LNZ     0        0
+ertan-1156 B071GTHD94     0        0
+ertan-1157 B08H1FL7BW     0        0
+ertan-1158 B07PB535WQ     0        0
+ertan-1159 B07WRCYHNM     0        0
+ertan-1160 B08ZMHTMQX     0        0
+ertan-1161 B09JZ3WGRJ     0        0
+ertan-1162 B09LQG4CX6     0        0
+ertan-1163 B07L364SG3     0        0
+ertan-1164 B01MSIBB7M     0        0
+ertan-1165 B07GKRWHXP     0        0
+ertan-1166 B08538SBG5     0        0
+ertan-1167 B08F7H45MH     0        0
+ertan-1168 B07HTFQCJJ     0        0
+ertan-1169 B07J5CHQT2     0        0
+ertan-1170 B097TBMS3W     0        0
+ertan-1171 B08146D1SB     0        0
+ertan-1172 B08FR8BSNR     0        0
+ertan-1173 B083HTV7TZ     0        0
+ertan-1174 B07SHFBQXL     0        0
+ertan-1175 B08NGDJTD2     0        0
+ertan-1176 B08MT75BZ6     0        0
+ertan-1177 B099ZRXNP3     0        0
+ertan-1178 B077PVDPX5     0        0
+ertan-1179 B08GPHLGZK     0        0
+ertan-1180 B07ZGL1CN9     0        0
+ertan-1181 B09LCP4HQG     0        0
+ertan-1182 B0B4X2Q2ZW     0        0
+ertan-1183 B07WZMFXLY     0        0
+ertan-1184 B00BP3ZL0A     0        0
+ertan-1185 B0B93CQTX4     0        0
+ertan-1186 B07WXK6RHP     0        0
+ertan-1187 B095RYWR3J     0        0
+ertan-1188 B08M9RR7T4     0        0
+ertan-1189 B09S37N1X5     0        0
+ertan-1190 B08DLDRRM1     0        0
+ertan-1191 B07HQDMBT7     0        0
+ertan-1192 B07N65RCRY     0        0
+ertan-1193 B09NN1D3P8     0        0
+ertan-1194 B01NA8RYJ7     0        0
+ertan-1195 B09VC86N5K     0        0
+ertan-1196 B004O78CL4     0        0
+ertan-1197 B0831B82YK     0        0
+ertan-1198 B06VXJQH4R     0        0
+ertan-1199 B07BKXGGQC     0        0
+ertan-1200 B09VPD4XPQ     0        0
+ertan-1201 B07T7FM9FY     0        0
+ertan-1202 B09K7PBGMJ     0        0
+ertan-1203 B0B1J2VJL4     0        0
+ertan-1204 B08RJC5B74     0        0
+ertan-1205 B08QZ8HHV1     0        0
+ertan-1206 B07B4QL6Z8     0        0
+ertan-1207 B07B2W8V1W     0        0
+ertan-1208 B094ZHG4LD     0        0
+ertan-1209 B09B3HSN4F     0        0
+ertan-1210 B08VF6JYKY     0        0
+ertan-1211 B08DCPSDYX     0        0
+ertan-1212 B083JWN7C7     0        0
+ertan-1213 B07R7HS3TX     0        0
+ertan-1214 B07FZCSHSF     0        0
+ertan-1215 B07CT8JD5V     0        0
+ertan-1216 B074HFNS9B     0        0
+ertan-1217 B088FDMH1B     0        0
+ertan-1218 B09VRXFMN8     0        0
+ertan-1219 B07BZ85N55     0        0
+ertan-1220 B099WNND9T     0        0
+ertan-1221 B07YYN49R9     0        0
+ertan-1222 B08TWQM1KB     0        0
+ertan-1223 B0B3J11QS3     0        0
+ertan-1224 B07GS4SRP3     0        0
+ertan-1225 B088LSFKMQ     0        0
+ertan-1226 B01A6N8XS6     0        0
+ertan-1227 B08SRDMJ2C     0        0
+ertan-1228 B07NZNV73R     0        0
+ertan-1229 B07TP813RN     0        0
+ertan-1230 B089KQGK2B     0        0
+ertan-1231 B07MVBQQV7     0        0
+ertan-1232 B08BY9HH69     0        0
+ertan-1233 B09LHMSH62     0        0
+ertan-1234 B07DD9QKDS     0        0
+ertan-1235 B08VS5DZX2     0        0
+ertan-1236 B07TT1BMB1     0        0
+ertan-1237 B088FZVYCJ     0        0
+ertan-1238 B07YCRD5ZY     0        0
+ertan-1239 B09Z89BQMT     0        0
+ertan-1240 B07TDD2RPS     0        0
+ertan-1241 B0001XXCD8     0        0
+ertan-1242 B01KGSWNE6     0        0
+ertan-1243 B08Z2VKQV5     0        0
+ertan-1244 B08BYMKCST     0        0
+ertan-1245 B07RWV4WVB     0        0
+ertan-1246 B085Q99W43     0        0
+ertan-1247 B06XRYLV1S     0        0
+ertan-1248 B074GJ975V     0        0
+ertan-1249 B07FF14S5S     0        0
+ertan-1250 B086VLZ789     0        0
+ertan-1251 B0106UASB4     0        0
+ertan-1252 B08GJC3G92     0        0
+ertan-1253 B09DSHNYPF     0        0
+ertan-1254 B07R7GLGTG     0        0
+ertan-1255 B08H1L52YG     0        0
+ertan-1256 B07Q9Z9KBD     0        0
+ertan-1257 B01MXQEG3I     0        0
+ertan-1258 B075XL2QL8     0        0
+ertan-1259 B07RPYM27B     0        0
+ertan-1260 B093FHF4ZH     0        0
+ertan-1261 B07SYY4CTL     0        0
+ertan-1262 B07SQ3H9G8     0        0
+ertan-1263 B07XTD6223     0        0
+ertan-1264 B074FTV287     0        0
+ertan-1265 B07X3JG6Y9     0        0
+ertan-1266 B00J2CFVEC     0        0
+ertan-1267 B07HDKL7PX     0        0
+ertan-1268 B07WFLPMX5     0        0
+ertan-1269 B08GG24YKB     0        0
+ertan-1270 B08GCJ3VC4     0        0
+ertan-1271 B08M97TBCD     0        0
+ertan-1272 B002646NLS     0        0
+ertan-1273 B01MG72WT7     0        0
+ertan-1274 B08HYXL3Q6     0        0
+ertan-1275 B08DHD23ZP     0        0
+ertan-1276 B06XSB3D1Y     0        0
+ertan-1277 B081F6F991     0        0
+ertan-1278 B07XKXPYXB     0        0
+ertan-1279 B004BP5L5E     0        0
+ertan-1280 B0085OI97O     0        0
+ertan-1281 B073RQXQ8L     0        0
+ertan-1282 B08PBLCFBT     0        0
+ertan-1283 B08YJ8XN77     0        0
+ertan-1284 B08VFC7SYQ     0        0
+ertan-1285 B001BB8UZE     0        0
+ertan-1286 B09PVCCLPY     0        0
+ertan-1287 B077FXJTTS     0        0
+ertan-1288 B08P7C3Z2Z     0        0
+ertan-1289 B00MI0GB4Y     0        0
+ertan-1290 B0117OD69O     0        0
+ertan-1291 B088TMBVMN     0        0
+ertan-1292 B000OL01K4     0        0
+ertan-1293 B07ZSYKJPR     0        0
+ertan-1294 B07ZXHJ7G5     0        0
+ertan-1295 B094QLPYWZ     0        0
+ertan-1296 B09DP6CSPZ     0        0
+ertan-1297 B074Z32TVK     0        0
+ertan-1298 B004O7AIUW     0        0
+ertan-1299 B074W9LRGC     0        0
+ertan-1300 B001PT8XNQ     0        0
+ertan-1301 B0872SGMW1     0        0
+ertan-1302 B07KRKNCXL     0        0
+ertan-1303 B0011459VE     0        0
+ertan-1304 B08HVC3V6Y     0        0
+ertan-1305 B08G1BLCMY     0        0
+ertan-1306 B07XDGPCD5     0        0
+ertan-1307 B07XHG8BLT     0        0
+ertan-1308 B08B43SNMD     0        0
+ertan-1309 B09HN7WLZ9     0        0
+ertan-1310 B09CD78PWP     0        0
+ertan-1311 B07RM5XXF9     0        0
+ertan-1312 B084ZVP16M     0        0
+ertan-1313 B01B0B6VGE     0        0
+ertan-1314 B07478C5VR     0        0
+ertan-1315 B08XLQKDY6     0        0
+ertan-1316 B07PM1XH37     0        0
+ertan-1317 B07J42NH93     0        0
+ertan-1318 B09G6J3Z4V     0        0
+ertan-1319 B07YTPQGYS     0        0
+ertan-1320 B08GBYLW7D     0        0
+ertan-1321 B088P6FL1Z     0        0
+ertan-1322 B0799H71TG     0        0
+ertan-1323 B0816FNLH6     0        0
+ertan-1324 B0852T2WBR     0        0
+ertan-1325 B000H0XFCS     0        0
+ertan-1326 B07RVDMRYC     0        0
+ertan-1327 B085ZZ8T17     0        0
+ertan-1328 B08LMJ3LRD     0        0
+ertan-1329 B075FKGPJF     0        0
+ertan-1330 B082CVYBVR     0        0
+ertan-1331 B081TMJ9X9     0        0
+ertan-1332 B0006B46V2     0        0
+ertan-1333 B09BMXPS3J     0        0
+ertan-1334 B08YZ3K9Q3     0        0
+ertan-1335 B07FRKJC62     0        0
+ertan-1336 B019BK4H8A     0        0
+ertan-1337 B08CR6WL5T     0        0
+ertan-1338 B08FXRTNWK     0        0
+ertan-1339 B087CCWVZ8     0        0
+ertan-1340 B09DSVYN6F     0        0
+ertan-1341 B08J2N9RNM     0        0
+ertan-1342 B092ZCTJ81     0        0
+ertan-1343 B07CSQ63TZ     0        0
+ertan-1344 B07J5L2NL6     0        0
+ertan-1345 B07VRZR34S     0        0
+ertan-1346 B07R4TM8T5     0        0
+ertan-1347 B0B4RRQYPQ     0        0
+ertan-1348 B07WCX2J4W     0        0
+ertan-1349 B01MQHBDS3     0        0
+ertan-1350 B09FKS2FVZ     0        0
+ertan-1351 B0027A5KJW     0        0
+ertan-1352 B06XC6J9BR     0        0
+ertan-1353 B01BXDR65O     0        0
+ertan-1354 B086DY6LWW     0        0
+ertan-1355 B08TW84GXL     0        0
+ertan-1356 B085P1SY93     0        0
+ertan-1357 B01KGU5XR8     0        0
+ertan-1358 B0B66M6KJ2     0        0
+ertan-1359 B08N5FSF6F     0        0
+ertan-1360 B0813YD7S1     0        0
+ertan-1361 B0986CPKBH     0        0
+ertan-1362 B07ZVX89NK     0        0
+ertan-1363 B0B5K94D89     0        0
+ertan-1364 B09VZ3LKFS     0        0
+ertan-1365 B078SR3BHF     0        0
+ertan-1366 B07VNLYH2S     0        0
+ertan-1367 B07F3VKR5X     0        0
+ertan-1368 B07RSRBMB8     0        0
+ertan-1369 B07GTXLS5N     0        0
+ertan-1370 B07YLJTHGT     0        0
+ertan-1371 B07VQRFXHH     0        0
+ertan-1372 B07SLVWD63     0        0
+ertan-1373 B099MY1KZJ     0        0
+ertan-1374 B08JPJJTF3     0        0
+ertan-1375 B09N6MCHH5     0        0
+ertan-1376 B078H8TZ4P     0        0
+ertan-1377 B07H25BB1T     0        0
+ertan-1378 B08CV9RR9Q     0        0
+ertan-1379 B08B4SVF7Q     0        0
+ertan-1380 B000TAW5AY     0        0
+ertan-1381 B07XQL72D9     0        0
+ertan-1382 B08CZLHV5N     0        0
